@@ -1,5 +1,5 @@
 # E-Commerce-Sales-Data-Analysis-SQL-PYTHON
-# E-Commerce Sales Data Analysis (SQL + Python)
+
 
 ##  Summary
 This project focuses on analyzing E-Commerce Sales Data to uncover meaningful business insights.  
@@ -52,7 +52,7 @@ Advanced SQL and Python queries were applied to derive:
 
 ##  Objective
 The main objective of this project was to build a *complete end-to-end data analysis pipeline* connecting:
-- *Data Preprocessing* (Python)
+- *Data Preprocessing & Modeling* (Python, Pandas, Numpy)
 - *Database Analysis* (MySQL)
 - *Data Visualization* (Matplotlib & Seaborn)
 
@@ -67,9 +67,10 @@ These insights help drive *data-informed decision-making* and enhance *overall b
 ---
 
 ##  Tools & Technologies
-- *Python:* Pandas, Matplotlib, Seaborn  
+- *Python:* Numpy, Pandas, Matplotlib, Seaborn  
 - *SQL (MySQL):* Data querying and analysis  
-- *Jupyter Notebook / VS Code:* Development environment  
+- *Jupyter Notebook :* Development environment
+- *MySQL Workbentch :* For bringing insights
 - *Kaggle:* Data source  
 
 ---

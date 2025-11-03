@@ -75,7 +75,7 @@ These insights help drive *data-informed decision-making* and enhance *overall b
 
 ---
 
-## 📎 Author
+##  Author
 *Arijit Das*  
  Aspiring Data Analyst | Python | SQL | Visualization  
  [LinkedIn · Arijit Das][(https://www.linkedin.com/in/arijit-das-b912842a0]](https://www.linkedin.com/in/arijit-das-b912842a0/
